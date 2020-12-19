@@ -1,0 +1,2 @@
+google-cloud-vision==2.0.0
+requests==2.25.1
